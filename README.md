@@ -31,6 +31,7 @@ This approach marks a breakthrough where machines learn from data examples to ge
     - Support Vector Machines(SVM)
     - Decision Tree
     - Ensemble Learning
+    - ...
       
   - Unsupervised learning :
     - K-means Clustering
